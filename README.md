@@ -10,7 +10,7 @@ Get your API key by going to the setting section.
 
 Then create a .env.local file and add your key API_KEY=ENTER_YOUR_API_KEY
 
-## Secound Step
+## Second Step
 
 Install npm module
 
@@ -36,12 +36,17 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Code Formatting
 
+- Typescript config from Google
+- ESLint
 - Prettier
 - Prettier plugin for Tailwind CSS
+- VS Code settings
+- Husky (Pre-commit hook to avoid committing bad code.)
 
-### Prettier VSCode Extension
+### VSCode Extensions
 
 - Install `Prettier - Code formatter`
+- Install `Tailwind CSS IntelliSense`
 
 ### Change VSCode settings
 
